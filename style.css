@@ -1,0 +1,60 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body, html {
+    height: 100%;
+  }
+header{
+    background-color: rgba(141, 0, 28, 0.863);
+    height: auto;
+    height: 200px;
+}
+main{
+    background-color: rgba(141, 0, 28, 0.797);
+    height: auto;
+    color: rgb(220, 220, 220);
+}
+aside{
+    background-color: rgba(175, 0, 35, 0.797);
+    height: 500px;
+}
+footer{
+    background-color: rgba(0, 255, 64, 0.788);
+    height: 300px;
+}
+#fdsnorio{
+    text-align: center;
+}
+.cleriton{
+    width: 400px;
+}
+.teto{
+    height: 200px;
+    width: 100%;
+}
+#headerh1{
+    position: absolute;
+    padding-left: 33%;
+    color: rgb(83, 117, 132);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px #000000;
+    font-size: 66px;
+    text-align: center;
+}
+#pAside{
+    color: rgb(204, 204, 204);
+    font-size: 11px;
+}
+#agenda{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+}
+#shows{
+    color: rgb(108, 137, 149);
+    text-shadow: 2px 2px #000000;
+}
